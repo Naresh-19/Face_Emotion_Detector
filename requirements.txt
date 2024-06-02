@@ -1,0 +1,6 @@
+opencv-python-headless
+numpy
+imutils
+urllib3
+facial-emotion-recognition
+opencv 
