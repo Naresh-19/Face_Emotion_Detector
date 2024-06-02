@@ -53,7 +53,6 @@ Welcome to the Face Emotion Detector repository! This project contains code for 
 
 - Python 3.x
 - OpenCV
-- TensorFlow/Keras
 - Other libraries as specified in `requirements.txt`
 
 ## Notes
