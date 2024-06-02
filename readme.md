@@ -1,6 +1,5 @@
-Sure, here's a `README.md` template for your repository:
 
-```markdown
+
 # Emotion Detector
 
 Welcome to the Face Emotion Detector repository! This project contains code for detecting emotions using a camera. The repository is structured with different scripts for emotion detection, accessing a mobile camera, and combining both functionalities.
